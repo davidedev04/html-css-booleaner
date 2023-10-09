@@ -1,0 +1,67 @@
+/* stili generali */
+body{
+    margin: 0;
+    font-family:'Times New Roman', Times, serif
+}
+
+/* stili header */
+#header{
+    background-color: rgb(38, 143, 255);
+    background-image: url();
+    background-repeat: repeat;
+    width: 100vw;
+    height: 12vh;
+}
+
+#pattern{
+    width: 200px;
+}
+
+
+
+/* stili del contenuto */
+#titolo{
+
+}
+
+#sottotitolo{
+    color: rgb(171, 171, 171);
+    font-size: 23px;
+}
+
+#data{
+    color: rgb(171, 171, 171);
+    font-size: 15px;
+}
+
+#sottotitolo span{
+    color:rgb(0, 153, 255);
+}
+
+#immagini{
+    margin-top: 17px;
+}
+
+p span{
+    background-color: yellow;
+}
+
+.table{
+    width: 900px;
+    height: 300px;
+}
+
+.top{
+    width: 100%;
+    height: 10%;
+    background-color: rgb(15, 135, 255);
+}
+
+.middle{
+    width: 100%;
+    height: 30%;
+}
+
+.middle-1{
+    background-color: rgb(91, 200, 255);
+}
